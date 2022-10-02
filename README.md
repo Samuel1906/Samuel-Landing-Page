@@ -1,3 +1,4 @@
 # Samuel-Landing-Page
-Meine Eigene und erste Landing-Page
-Dies ist ein Projekte um Flexbox zu üben und meine Projekte zu showcasen.
+Mit diesem Projekt möchte ich gerne eine Webseite erstellen. Mit dieser Webseite kann man meine Projekte anschauen.
+
+Sie wird mit der Zeit immer wieder erweitert.
