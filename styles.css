@@ -18,6 +18,11 @@ body {
     justify-content: center;
 }
 
+#main-p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
 .header-right{
     font-size: 18px;
     display: flex;
@@ -43,10 +48,7 @@ h1{
     font-weight: bolder;
     color: #F9FAF8;
 }
-p {
-    font-size: 18px;
-    color: #E5E7EB;
-}
+
 button {
     background-color: #3882F6;
     color: #F9FAF8;
@@ -103,7 +105,7 @@ button {
 
     text-align: center;
 }
-.Quote{
+.quote-container{
     background-color: #E5E7EB;
     height: 400px;
 }
@@ -111,8 +113,61 @@ button {
 .main-quote{
     font-size: 36px;
     color: #1f2937;
+    font-style: italic;
+    text-align: center;
+    font-weight: light;
 }
 
 .main-quote-hero{
     color: #1f2937;
+    font-weight: bold;
+    text-align: end;
+    margin-right: 15%;
+}
+.sign-up-field {
+    background-color: #ffffff;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.sign-up-banner{
+    background-color: #3882F6;
+    margin: 64px 150px;
+    width: 1366px;
+    border-radius: 15px;
+    padding: 32px 64px;
+    display: flex;
+    justify-content: space-around;
+}
+.sign-up-text, .sign-up-text-bottom{
+    color: #ffffff;
+}
+
+.sign-up-text{
+    font-weight: bold;
+    margin: 32px;
+}
+
+.sign-up-text-bottom{
+    font-weight: 100;
+}
+#button-right{
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-radius: 5px;
+    border: 2px solid #ffffff;
+    width: 75px;
+    margin: 32px;
+}
+.sign-up-text p{
+    margin: 0px;
+}
+.footer{
+    height: 100px;
+    background-color: #1f2937;
+    padding: 32px;
+}
+.footer p {
+    color: #ffffff;
+    text-align: center;
 }
